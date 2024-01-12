@@ -1,0 +1,31 @@
+_repo: Eight-brand-new-bits-of-Christmas-cheer_72633
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bangs, John Kendrick
+    birthdate: 1862
+    deathdate: 1922
+    gutenberg_agent_id: '979'
+    url: http://www.gutenberg.org/2009/agents/979
+    wikipedia: https://en.wikipedia.org/wiki/John_Kendrick_Bangs
+description: ''
+gutenberg_issued: '2024-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72633'
+language: en
+pgterms:marc904: https://archive.org/details/eightbrandnewbit00bang/page/n1/mode/2up
+pgterms:marc905: 20221028134026bangs
+pgterms:marc906: '1911'
+pgterms:marc907: US
+production_note: Bob Taylor, Charlene Taylor and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aNew York :$bThe Leighton and Valentine Company, $c1911.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Eight brand new bits of Christmas cheer
+url: http://www.gutenberg.org/ebooks/72633

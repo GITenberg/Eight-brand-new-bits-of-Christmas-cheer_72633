@@ -1,5 +1,8 @@
 _repo: Eight-brand-new-bits-of-Christmas-cheer_72633
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72633-h/images/cover.jpg
 creator:
   author:
     agent_name: Bangs, John Kendrick
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/979
     wikipedia: https://en.wikipedia.org/wiki/John_Kendrick_Bangs
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72633#Eight-brand-new-bits-of-Christmas-cheer
 gutenberg_issued: '2024-01-05'
 gutenberg_type: Text
 identifiers:
